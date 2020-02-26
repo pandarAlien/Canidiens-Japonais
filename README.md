@@ -1,7 +1,5 @@
  # canadiens-Japonais
-< img https://www.google.com/search?q=internment+camp&safe=strict&rlz=1C5CHFA_enCA535CA535&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbssLB_e_nAhWPLc0KHY9xAu4Q_AUoAXoECBQQAw&biw=1440&bih=789#imgrc=eO7MIKfbfTVvIM
-
-
+< img 
 
 
 
