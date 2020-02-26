@@ -19,7 +19,8 @@ un photo de les camp d'internement
     
     
     
-### les vage dimmigration
+### le constibution que les Japonais canadiens sur l'identite canadien
+
 
 
 
