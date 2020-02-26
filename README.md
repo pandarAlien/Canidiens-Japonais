@@ -19,7 +19,9 @@ un photo de les camp d'internement
     
     
     
-### le constibution que les Japonais canadiens sur l'identite canadien
+## le constibution que les Japonais canadiens sur l'identite canadien
+
+
 
 
 il sont aide avec le 2sem geurre mondal,il sont un grand construbution sur le mine dans canada est beaucoupe plus!
