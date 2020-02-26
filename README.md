@@ -34,6 +34,21 @@ il sont aide avec le 2sem geurre mondal,il sont un grand construbution sur le mi
 
 
 
+### les Quotes 
+
+
+
+
+
+Thomas Reid
+
+
+
+<< "bring them back to japan they so not belong here, Ther is only one solution to the problem They can nit be asumulated as canadiens for no matter how long they stay in canada they will alwase be Japonise ">>
+
+
+
+
 
   
   
