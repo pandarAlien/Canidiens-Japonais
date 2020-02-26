@@ -40,6 +40,7 @@ il sont aide avec le 2sem geurre mondal,il sont un grand construbution sur le mi
 
 
 
+
 Thomas Reid
 
 
@@ -50,6 +51,8 @@ Thomas Reid
 
 
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bundesarchiv_Bild_183-L13979%2C_Frankreich%2C_Ankleben_von_Aufrufen_durch_PK.jpg"/> 
   
   
   
