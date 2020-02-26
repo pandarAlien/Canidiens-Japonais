@@ -1,0 +1,100 @@
+@import compass
+
+@import "compass/css3/shared"
+
+*
+  font-family: "Helvetica Neue", Arial
+  color: #636363
+  
++keyframes(colorFade)
+  from
+    color: #404040
+  to
+    color: #cbcbcb
+
+.container
+  margin: 200px auto 0
+  width: 280px
+  border: 3px solid #cbcbcb
+  +border-radius(6px)
+  padding: 15px
+  overflow: hidden
+  +transition(border 0.3s ease)
+  backface-visibility: hidden
+    
+  > span
+    font-size: 20px
+    line-height: 32px
+    font-weight: bold
+    color: #cbcbcb
+    padding: 0 5px
+    +transition(color 0.3s ease)
+
+    &.fade
+      +animate(colorFade, 0.6s, 0s)
+
+  &.hover
+    border-color: darken(#cbcbcb, 10%)
+    +box-shadow(0 0 14px 0 #efefef)
+    
+    > span
+      color: darken(#cbcbcb, 10%)
+    
+  &.open
+    ul
+      height: 100px
+      opacity: 1
+
+  .close
+    float: right
+
+  
+  ul
+    display: none
+    list-style-type: none
+    padding: 0
+    margin: 0
+    font-weight: 200
+    width: 100%
+    margin-top: 10px
+    +transition(all 0.3s ease)
+    padding: 10px 5px 0
+    margin-top: 15px
+      
+    a
+      text-decoration: none
+      font-size: 20px
+      color: #cbcbcb
+      font-weight: bold
+      +transition(color 0.3s ease)
+
+      &:hover
+        color: #636363
+      
+      &.active        
+        color: #636363
+
+    li
+      padding: 8px 0
+
+  
+.close
+  fill: #cbcbcb
+  position: relative
+  +transform(rotate(0deg))
+  +transition(all 0.3s ease)
+  cursor: pointer
+
+  path
+    +transition(all 0.3s ease)
+  
+  &:hover
+    path
+      fill: #404040
+
+  &.active
+    +transform(rotate(-135deg))
+      
+    path
+      fill: #404040
+    
