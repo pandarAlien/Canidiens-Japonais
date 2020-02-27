@@ -6,9 +6,6 @@ un photo de les camp d'internement
 
 
 
-
-
-
 ## Camp D'internement:
  
  Ques que se un camp d'internement? 
@@ -23,7 +20,7 @@ un photo de les camp d'internement
 
 
 
-## le constibution que les Canadiens Japonais sur l'identite canadien
+## Le constibution que les Canadiens Japonais sur l'identite canadien
 
 
 
@@ -37,7 +34,7 @@ il sont aide avec le 2sem geurre mondal,il sont un grand construbution sur le mi
 
 
 
-## les Quotes 
+## Les Quotes 
 
 
 
