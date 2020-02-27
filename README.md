@@ -1,5 +1,7 @@
 # canadiens-Japonais
 <img src="https://d3d0lqu00lnqvz.cloudfront.net/media/media/92aa135b-0f74-4928-9aa5-bb75671a11bc.jpg"/> 
+
+
 un photo de les camp d'internement
 
 
@@ -7,15 +9,14 @@ un photo de les camp d'internement
 
 
 
-## camp d'internement:
+## Camp D'internement:
  
- Que que se un camp d'internement? 
+ Ques que se un camp d'internement? 
  un camp d'internement est un camp que les canidiens japonais son place dans 
     le tamp que le 2 geur mondial.
     
     
-    
-   <img src="https://d3d0lqu00lnqvz.cloudfront.net/media/media/92aa135b-0f74-4928-9aa5-bb75671a11bc.jpg"/>   
+    <img src="https://d3d0lqu00lnqvz.cloudfront.net/media/media/92aa135b-0f74-4928-9aa5-bb75671a11bc.jpg"/>  
 
 
 un photo de les camp d'internement
@@ -25,7 +26,7 @@ un photo de les camp d'internement
 
 
 
-## le constibution que les Japonais canadiens sur l'identite canadien
+## le constibution que les Canadiens Japonais sur l'identite canadien
 
 
 
