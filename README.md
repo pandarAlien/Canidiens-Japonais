@@ -1,3 +1,8 @@
+# canadiens-Japonais
+<img src="https://d3d0lqu00lnqvz.cloudfront.net/media/media/92aa135b-0f74-4928-9aa5-bb75671a11bc.jpg"/> 
+un photo de les camp d'internement
+
+
 <doctype html>
   <head>
    <meta charset="UTF-8">
@@ -16,15 +21,6 @@
 <ul class="list">
   <li><a href="#">menu</a></li>
 </ul>  
-
-
-
-
-# canadiens-Japonais
-<img src="https://d3d0lqu00lnqvz.cloudfront.net/media/media/92aa135b-0f74-4928-9aa5-bb75671a11bc.jpg"/> 
-un photo de les camp d'internement
-
-
 
 
 
