@@ -14,9 +14,7 @@
 </svg>
 <span>Select a value</span>
 <ul class="list">
-  <li><a href="#">A default value</a></li>
-  <li><a href="#">Another one</a></li>
-  <li><a href="#">Just one more</a></li>
+  <li><a href="#">menu</a></li>
 </ul>  
 
 
