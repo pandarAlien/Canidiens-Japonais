@@ -58,11 +58,17 @@ Thomas Reid
 
 
 
- Les Chose Qui Pousse Est Tire 
+ ## Les Chose Qui Pousse Est Tire 
 
 
 
-Les chose qui pousse: Un geur,des racisim est plus dauter chose pas bon qui    
+Les chose qui pousse: Un geur,des racisim est plus dauter chose pas bon qui
+Les chose qui tirre : Un vote, noter doit elagle est plus dauter chose qui son bon 
+
+
+
+
+<img src= "https://tce-live2.s3.amazonaws.com/media/media/0bec6156-0467-4a97-909f-da599383381d.jpg"/>
   
   
   
