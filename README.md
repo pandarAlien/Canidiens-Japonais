@@ -53,5 +53,26 @@ Thomas Reid
 
 
 <img src="https://image.slidesharecdn.com/japrelocation-141126142014-conversion-gate01/95/japanese-relocation-in-canada-3-638.jpg?cb=1417011693https://image.slidesharecdn.com/japrelocation-141126142014-conversion-gate01/95/japanese-relocation-in-canada-3-638.jpg?cb=1417011693"/> 
+
+
+
+
+
+ Les Chose Qui Pousse Est Tire 
+
+
+
+Les chose qui pousse: Un geur,des racisim est plus dauter chose pas bon qui    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
  
