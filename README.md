@@ -85,8 +85,7 @@ Les chose qui tirre : Un vote, noter doit elagle est plus dauter chose qui son b
 
 
 
- ### la ville quotidien en Canada 
- 
+ ## La Ville Quotidien
  
  
  
@@ -96,7 +95,7 @@ Les chose qui tirre : Un vote, noter doit elagle est plus dauter chose qui son b
  
  
  
-<img src= "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.beautifulgreenwood.com%2Fhistory%2Fjapanese.html&psig=AOvVaw0YfjXVhwsunoI5roNcvQjc&ust=1583419998516000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC3jr-JgegCFQAAAAAdAAAAABAD"/> 
+<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fnorth%2Fjapanese-canadian-redress-anniversary-1.4924816&psig=AOvVaw3yZqVRyC_pnHiShMPJY8xh&ust=1583936048943000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCd7N-LkOgCFQAAAAAdAAAAABAD"/> 
 
 par Eden/PandarAlien
 
