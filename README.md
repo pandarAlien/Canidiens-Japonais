@@ -96,8 +96,7 @@ Les chose qui tirre : Un vote, noter doit elagle est plus dauter chose qui son b
  
  
  
- <img src= "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.beautifulgreenwood.com%2Fhistory%2Fjapanese.html&psig=AOvVaw0YfjXVhwsunoI5roNcvQjc&ust=1583419998516000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC3jr-JgegCFQAAAAAdAAAAABAD"/>
- 
+<img src= "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.beautifulgreenwood.com%2Fhistory%2Fjapanese.html&psig=AOvVaw0YfjXVhwsunoI5roNcvQjc&ust=1583419998516000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC3jr-JgegCFQAAAAAdAAAAABAD"/> 
 
 par Eden/PandarAlien
 
