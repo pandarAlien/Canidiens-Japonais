@@ -80,22 +80,7 @@ Les chose qui tirre : Un vote, noter doit elagle est plus dauter chose qui son b
 
 
 
-
-
-
-
-
- ## La Ville Quotidien
  
- 
- 
- Il doit fait le traville tres dangereuse
- Ils non pas donne le bone nuriture ( avec les insect dans) 
- Est le plus dauter. 
- 
- 
- 
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fnorth%2Fjapanese-canadian-redress-anniversary-1.4924816&psig=AOvVaw3yZqVRyC_pnHiShMPJY8xh&ust=1583936048943000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCd7N-LkOgCFQAAAAAdAAAAABAD"/> 
 
 par Eden/PandarAlien
 
